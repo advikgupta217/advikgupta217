@@ -33,7 +33,7 @@
   </a>
   <img width="12" />
 
-    <a href="https://www.tensorflow.org/" target="_blank">
+  <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow logo" />
   </a>
   <img width="12" />
